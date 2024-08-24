@@ -1,4 +1,4 @@
-## UPDATE: [Copilot](https://copilot.money/) is a relatively new app that covers all the features of this tracker and much more, in a much nicer UI (integrates bank and finance connections through Plaid). I've been paying the annual fee to use that instead.
+## UPDATE: [Copilot](https://copilot.money/link/8jJmS6o2R7US4j8P6) is a relatively new app that covers all the features of this tracker and much more, in a much nicer UI (integrates bank and finance connections through Plaid). I've been paying the annual fee to use that instead.
 
 # spending-tracker
 For personal spending tracking needs! Contains 4 main features:
