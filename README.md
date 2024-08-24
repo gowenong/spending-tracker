@@ -1,3 +1,5 @@
+## UPDATE: [Copilot](https://copilot.money/) is a relatively new app that covers all the features of this tracker and much more, in a much nicer UI (integrates bank and finance connections through Plaid). I've been paying the annual fee to use that instead.
+
 # spending-tracker
 For personal spending tracking needs! Contains 4 main features:
   1. Can track total $ spent on any category, mode of payment, store name, and recurring payments (or all categories) over any period of time (give start and end date)
